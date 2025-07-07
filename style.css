@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(220, 14, 127);
+}
+.container {
+    width: 90%;
+    padding: 30px;
+}
+
+.item-1, .item-2, .item-3, .item-4 {
+    width: 100px;
+    display: inline-block;
+    margin: 10px;
+    vertical-align: top;
+    text-align: left;
+}
+
+img {
+    width: 100px;   
+    height: 140px; 
+    display: inline-block;
+}
+
+h3, p {
+    padding: 5px;
+    margin: 0;
+    text-align: left;
+}
